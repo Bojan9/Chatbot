@@ -28,7 +28,7 @@ Accessing the Chatbot:
 - Open a web browser and go to http://localhost:5000 to access the chatbot interface.
 - Interact with the chatbot by typing queries into the input box and clicking "Send".
 
-### 2. Technologies Used
+## 2. Technologies Used
 
 - Python 3.12: Backend logic and NLP processing.
 - Flask 2.0: Web framework for routing and handling HTTP requests.
@@ -36,7 +36,7 @@ Accessing the Chatbot:
 - JSON: Data format for storing FAQs and responses.
 - HTML/CSS/JavaScript: Frontend interface for user interaction and displaying chatbot responses.
 
-### 3. Approach
+## 3. Approach
 
 ### 3.1. Functional Requirements
 
@@ -57,12 +57,12 @@ Accessing the Chatbot:
 - Processing: The chatbot receives user queries, processes them using NLP techniques, and retrieves appropriate responses from the FAQ database.
 - Response: Sends the response back to the user interface for display.
 
-### 4. Challenges Faced
+## 4. Challenges Faced
 
 - NLP Accuracy: Ensuring accurate matching of user queries to relevant FAQs posed a challenge, especially with variations in user input.
 - Deployment: Configuring the Flask application for deployment on different platforms and ensuring smooth integration with frontend components.
 - User Experience: Designing a user-friendly interface that mimics natural conversation flow while maintaining simplicity.
 
-### 5. Conclusion
+## 5. Conclusion
 
 The chatbot prototype successfully demonstrates the integration of basic AI concepts into a SaaS model, providing a responsive interface for handling user queries. By leveraging Python, Flask, and NLTK, the project achieves efficient NLP-based query handling and delivers predefined responses based on stored FAQs. Future enhancements could focus on improving NLP accuracy, expanding the FAQ database, and enhancing the user interface for a more intuitive user experience.
