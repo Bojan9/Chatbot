@@ -63,6 +63,11 @@ Accessing the Chatbot:
 - Deployment: Configuring the Flask application for deployment on different platforms and ensuring smooth integration with frontend components.
 - User Experience: Designing a user-friendly interface that mimics natural conversation flow while maintaining simplicity.
 
-## 5. Conclusion
+## 5. Demo
+
+![demo](https://github.com/user-attachments/assets/15157447-bb67-4468-869f-e6a06e84832f)
+
+
+## 6. Conclusion
 
 The chatbot prototype successfully demonstrates the integration of basic AI concepts into a SaaS model, providing a responsive interface for handling user queries. By leveraging Python, Flask, and NLTK, the project achieves efficient NLP-based query handling and delivers predefined responses based on stored FAQs. Future enhancements could focus on improving NLP accuracy, expanding the FAQ database, and enhancing the user interface for a more intuitive user experience.
