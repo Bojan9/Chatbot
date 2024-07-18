@@ -1,0 +1,191 @@
+{
+    "greetings": [
+        "hi",
+        "hii",
+        "hiii",
+        "hello",
+        "helo",
+        "halo",
+        "hey",
+        "good day",
+        "good afternoon",
+        "howdy",
+        "greetings",
+        "what's up",
+        "yo",
+        "hi there",
+        "hey there",
+        "nice to see you",
+        "how's it going",
+        "welcome",
+        "hiya",
+        "morning",
+        "afternoon",
+        "evening",
+        "hello there",
+        "top of the morning to you",
+        "how are you",
+        "good to see you",
+        "great to see you",
+        "how have you been",
+        "how's everything",
+        "long time no see",
+        "what's new",
+        "how's your day",
+        "how's life",
+        "nice day, isn't it"
+    ],
+    "farewells": [
+        "bye",
+        "goodbye",
+        "see you later",
+        "take care",
+        "farewell",
+        "see ya",
+        "catch you later",
+        "until next time",
+        "have a good one",
+        "have a nice day",
+        "have a great day",
+        "take it easy",
+        "see you soon",
+        "bye for now",
+        "so long",
+        "gotta go",
+        "have a good day",
+        "see you around",
+        "talk to you later",
+        "goodnight",
+        "sleep well",
+        "later",
+        "adios",
+        "take care of yourself",
+        "peace out",
+        "bye now",
+        "have a good evening",
+        "have a good night",
+        "until we meet again"
+    ],
+    "faq": [
+        {
+            "question": "reset password",
+            "answer": "To reset your password, please visit our website and click on the 'Forgot Password' link."
+        },
+        {
+            "question": "upgrade subscription",
+            "answer": "To upgrade your subscription, log in to your account and navigate to the subscription settings."
+        },
+        {
+            "question": "customer support hours",
+            "answer": "Our customer support team is available from Monday to Friday, 9 AM to 5 PM."
+        },
+        {
+            "question": "contact technical support",
+            "answer": "You can contact technical support by emailing support@example.com or calling +123456789."
+        },
+        {
+            "question": "change billing information",
+            "answer": "To change your billing information, log in to your account and update your billing details."
+        },
+        {
+            "question": "download invoice",
+            "answer": "To download your invoice, go to your account dashboard and select the invoice download option."
+        },
+        {
+            "question": "cancel subscription",
+            "answer": "To cancel your subscription, log in to your account, navigate to subscription settings, and select the cancel option."
+        },
+        {
+            "question": "refund policy",
+            "answer": "Our refund policy allows refunds within 30 days of purchase. Please contact support for more details."
+        },
+        {
+            "question": "product availability",
+            "answer": "Our products are available for purchase online. Check our website for current availability."
+        },
+        {
+            "question": "update personal information",
+            "answer": "To update your personal information, log in to your account and navigate to the profile settings."
+        },
+        {
+            "question": "shipping costs",
+            "answer": "Shipping costs vary depending on location and shipping method. Please check our shipping policy for details."
+        },
+        {
+            "question": "return policy",
+            "answer": "Items can be returned within 30 days of purchase. Please ensure the item is in its original condition."
+        },
+        {
+            "question": "track order",
+            "answer": "To track your order, log in to your account and navigate to the order tracking section."
+        },
+        {
+            "question": "product specifications",
+            "answer": "Product specifications are listed on each product page. For additional details, please contact support."
+        },
+        {
+            "question": "check account balance",
+            "answer": "To check your account balance, log in to your account and view your account dashboard."
+        },
+        {
+            "question": "payment methods",
+            "answer": "We accept credit cards, PayPal, and bank transfers as payment methods. Please check our website for more details."
+        },
+        {
+            "question": "company location",
+            "answer": "Our company is located at 123 Main Street, City, State, ZIP Code."
+        },
+        {
+            "question": "privacy policy",
+            "answer": "Our privacy policy outlines how we collect, use, and protect your personal information."
+        },
+        {
+            "question": "account registration",
+            "answer": "To register for an account, visit our website and click on the 'Sign Up' or 'Register' link."
+        },
+        {
+            "question": "unsubscribe from emails",
+            "answer": "To unsubscribe from emails, click on the 'Unsubscribe' link at the bottom of any email you receive from us."
+        },
+        {
+            "question": "product reviews",
+            "answer": "Product reviews can be found on each product page. Customers can leave reviews after purchasing a product."
+        },
+        {
+            "question": "terms of service",
+            "answer": "Our terms of service outline the rules and guidelines for using our website and services."
+        },
+        {
+            "question": "discount codes",
+            "answer": "Discount codes can be applied during checkout. Sign up for our newsletter to receive exclusive discounts."
+        },
+        {
+            "question": "membership benefits",
+            "answer": "Membership benefits include exclusive offers, early access to sales, and member-only events."
+        },
+        {
+            "question": "product warranty",
+            "answer": "Products come with a standard manufacturer's warranty. Please check the product details for warranty information."
+        },
+        {
+            "question": "technical specifications",
+            "answer": "Technical specifications for products are available on the product details page. For specific queries, contact support."
+        },
+        {
+            "question": "order confirmation",
+            "answer": "Upon placing an order, you will receive an order confirmation email with your order details."
+        },
+        {
+            "question": "bulk order discounts",
+            "answer": "We offer discounts for bulk orders. Contact our sales team for more information on bulk pricing."
+        },
+        {
+            "question": "product availability notification",
+            "answer": "You can sign up for product availability notifications on out-of-stock items. Check our website for details."
+        },
+        {
+            "question": "account password reset",
+            "answer": "To reset your account password, go to the login page and click on the 'Forgot Password' link."
+        }
+    ]
+}  
